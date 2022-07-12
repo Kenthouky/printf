@@ -8,7 +8,7 @@
 
 .SH SYNOPSIS
 
-.B #include "main.h"
+.B #include "main.h" contains all functions used
 
 
 
